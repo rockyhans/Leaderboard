@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#2c3e50;">🏆 Leaderboard System</h1>
 
 <p align="center">
-  <img src="./client/src/assets/previewL.png" alt="Leaderboard Preview" width="600"/>
+  <img src="./previewL.jpg" alt="Leaderboard Preview" width="600"/>
 </p>
 
 <p align="center">
